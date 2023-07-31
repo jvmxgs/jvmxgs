@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Víctor
 - 👀 I’m interested in music, games, code.
-- 🌱 I’m currently learning Vue, Laravel.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on web applications and games.
 - 📫 You can reach me at jvmxgs@gmail.com
 
